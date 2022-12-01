@@ -20,7 +20,7 @@ yarn wdio
 4. The terminal output will show you the results.
 
 ## Example results
-
+```
  "spec" Reporter:
 ------------------------------------------------------------------
 [chrome 108.0.5359.71 windows #0-0] Running: chrome (v108.0.5359.71) on windows
@@ -53,3 +53,4 @@ Spec Files:      1 passed, 1 total (100% completed) in 00:00:20
 2022-12-01T18:41:24.823Z INFO @wdio/local-runner: Waiting for 0 to shut down gracefully
 2022-12-01T18:41:24.824Z INFO @wdio/local-runner: shutting down
 Done in 22.02s.
+```
